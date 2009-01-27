@@ -10,3 +10,6 @@ configure
 install-sh
 missing
 *~
+font-bh-75dpi-*.tar.*
+ChangeLog
+tags
